@@ -1,0 +1,10 @@
+C:\Users\MOHAMED AZIMAL\source\repos\SimpleSnake\SimpleSnake\obj\Debug\SimpleSnake.csprojAssemblyReference.cache
+C:\Users\MOHAMED AZIMAL\source\repos\SimpleSnake\SimpleSnake\obj\Debug\SimpleSnake.Form1.resources
+C:\Users\MOHAMED AZIMAL\source\repos\SimpleSnake\SimpleSnake\obj\Debug\SimpleSnake.Properties.Resources.resources
+C:\Users\MOHAMED AZIMAL\source\repos\SimpleSnake\SimpleSnake\obj\Debug\SimpleSnake.csproj.GenerateResource.cache
+C:\Users\MOHAMED AZIMAL\source\repos\SimpleSnake\SimpleSnake\obj\Debug\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMED AZIMAL\source\repos\SimpleSnake\SimpleSnake\bin\Debug\SimpleSnake.exe.config
+C:\Users\MOHAMED AZIMAL\source\repos\SimpleSnake\SimpleSnake\bin\Debug\SimpleSnake.exe
+C:\Users\MOHAMED AZIMAL\source\repos\SimpleSnake\SimpleSnake\bin\Debug\SimpleSnake.pdb
+C:\Users\MOHAMED AZIMAL\source\repos\SimpleSnake\SimpleSnake\obj\Debug\SimpleSnake.exe
+C:\Users\MOHAMED AZIMAL\source\repos\SimpleSnake\SimpleSnake\obj\Debug\SimpleSnake.pdb
